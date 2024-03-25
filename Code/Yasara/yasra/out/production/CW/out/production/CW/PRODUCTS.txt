@@ -1,0 +1,7 @@
+Product ID : E01
+Product Name : fan
+Available :34
+Price :890.0
+Product Brand : singer
+Warrenty period : 5
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
